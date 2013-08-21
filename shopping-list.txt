@@ -1,5 +1,4 @@
 bacon
-baked beans
 black pudding
 bread
 butter
@@ -8,3 +7,4 @@ hash browns
 Monkey
 pork pies x 3
 sausages x2
+coffee
