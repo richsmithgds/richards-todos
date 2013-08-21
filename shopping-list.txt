@@ -1,10 +1,10 @@
-eggs
 bacon
-sausages x2
 baked beans
-hash browns
 black pudding
 bread
 butter
-Pork pies x 3
+eggs
+hash browns
 Monkey
+pork pies x 3
+sausages x2

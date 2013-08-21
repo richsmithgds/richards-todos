@@ -1,7 +1,8 @@
-Feed rabbit
-Wash-up
 Cook dinner
-Sleep
-Watch TV
 Eat pork pies
+Feed rabbit
+Sleep
 Swim
+Watch TV
+Wash-up
+
